@@ -343,7 +343,7 @@ body {
   margin-top: 50px;
   width: 1140px;
   height: 313px;
-  background-image: url(/assets/handshake.jpg);
+  background-image: url(/assets/handshake.JPG);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -398,6 +398,7 @@ body {
   color: rgb(13, 19, 33);
   align-items: center;
   margin-left: 10px;
+  border: none;
 }
 
 footer {
