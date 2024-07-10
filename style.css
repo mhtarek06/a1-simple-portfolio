@@ -115,7 +115,6 @@ body {
 .web-dev-nece h1 {
   margin-top: 80px;
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 32px;
   font-weight: 800;
 }
@@ -123,7 +122,6 @@ body {
 .web-dev-nece p {
   margin-top: 20px;
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 16px;
   font-weight: 400;
 }
@@ -162,21 +160,18 @@ body {
 
 .box h1 {
   color: rgba(13, 19, 33, 0.7);
-  font-family: Azeret Mono;
   font-size: 24px;
   font-weight: 700;
   margin-bottom: 15px;
 }
 .box p {
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 16px;
   font-weight: 400;
   margin-bottom: 15px;
 }
 .box button {
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 20px;
   font-weight: 600;
   align-items: center;
@@ -193,7 +188,6 @@ body {
 
 .inspiration h2 {
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 32px;
   font-weight: 800;
 }
@@ -209,13 +203,11 @@ body {
 }
 .inspiration h2 {
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 32px;
   font-weight: 800;
 }
 .inspiration p {
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 16px;
   font-weight: 400;
   margin-top: 25px;
@@ -254,7 +246,6 @@ body {
 }
 .title {
   color: rgb(13, 19, 33);
-  /* font-family: Azeret Mono; */
   font-size: 32px;
   font-weight: 800;
 }
@@ -343,7 +334,7 @@ body {
   margin-top: 50px;
   width: 1140px;
   height: 313px;
-  background-image: url(/assets/handshake.JPG);
+  background-image: url(./assets/handshake.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
